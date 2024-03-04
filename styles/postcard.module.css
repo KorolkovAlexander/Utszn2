@@ -1,0 +1,41 @@
+.post {
+}
+
+.postgrid {
+  width: 450px;
+  height: 550px;
+  display: flex;
+  flex-direction: column;
+  word-wrap: break-word;
+  margin-bottom: 45px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  padding: 10px;
+  /* border-style: dashed;
+  border-width: 1px;
+  border-color: black; */
+  /* align-items: center;
+    justify-content: center; */
+}
+
+.postTitle {
+  font-size: 28px;
+  padding-bottom: 170px;
+  height: 120px;
+}
+
+.postDate {
+  padding-bottom: 20px;
+  font-size: 16px;
+}
+
+.postImage {
+}
+
+@media screen and (max-width: 1390px) {
+  .postTitle {
+    font-size: 22px;
+  }
+  .postgrid {
+    width: 230px;
+  }
+}

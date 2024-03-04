@@ -1,0 +1,46 @@
+.background{
+  background-image: url("../public/back.png");
+  background-repeat: no-repeat;
+}
+
+
+.output {
+  background-image: url("../public/calc2.jpg");
+  height: 500px;
+  width: 500px;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.result {
+  margin-bottom: 100px;
+  margin-right: 0px;
+  font-size: 42px;
+  transform: rotate(-5.5deg);
+  font-family: 'Fuggles', cursive;
+}
+
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.calc{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-image: url("../public/back.png");
+  background-repeat: no-repeat;
+  font-family: 'Fuggles', cursive;
+}
+
+.input{
+  height: 100px;
+  width: 200px;
+  font-size: 30px;
+}

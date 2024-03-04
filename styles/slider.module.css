@@ -1,0 +1,17 @@
+.frame {
+  display: flex;
+  flex-direction: column;
+  height: 500px;
+  width: 700px;
+  cursor: default;
+}
+
+.image {
+  height: 350px;
+  width: 150%;
+}
+
+.main {
+}
+
+
