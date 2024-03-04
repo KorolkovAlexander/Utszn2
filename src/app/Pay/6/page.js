@@ -25,13 +25,7 @@ export default function Page() {
   
       <main className={styles.mainpost2}>
       
-      <div><Image 
-            src="/../21.jpg"
-            width={900}
-            height={600}
-            alt="Picture of the author"
-      
-      /></div>
+ 
 
 <div className={styles.title2}>Порядок оказания единовременной денежной помощи в связи с утратой имущества первой необходимости </div><br/>
       <div className={styles.text2}>Постановлением Правительства Луганской Народной Республики от 02 августа 2022 года № 612/22 утвержден Порядок оказания единовременной денежной помощи в связи с утратой имущества первой необходимости.<br/>

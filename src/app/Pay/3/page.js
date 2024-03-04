@@ -25,13 +25,7 @@ export default function Page() {
   
       <main className={styles.mainpost2}>
       
-      <div><Image 
-            src="/../18.jpg"
-            width={900}
-            height={600}
-            alt="Picture of the author"
-      
-      /></div>
+
 
 <div className={styles.title2}>Кто имеет право на компенсационную выплату (субсидию) </div><br/>
       <div className={styles.text2}>Компенсационная выплата (субсидия) на ЖКУ/уголь – расходы граждан, превышающие 15 процентов в совокупном доходе семьи.<br/>

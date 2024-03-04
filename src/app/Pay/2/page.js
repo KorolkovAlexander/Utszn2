@@ -25,13 +25,7 @@ export default function Page() {
   
       <main className={styles.mainpost2}>
       
-      <div><Image 
-            src="/../17.jpg"
-            width={900}
-            height={600}
-            alt="Picture of the author"
-      
-      /></div>
+
 
 <div className={styles.title2}>Порядок предоставления компенсационных выплат на оплату жилищно-коммунальных услуг, приобретение твердого бытового топлива гражданам, проживающим на территории Луганской Народной Республики </div><br/>
       <div className={styles.text2}>Компенсационная выплата предоставляется гражданам в случае, если:<br/>

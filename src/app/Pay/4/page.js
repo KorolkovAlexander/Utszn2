@@ -25,13 +25,7 @@ export default function Page() {
   
       <main className={styles.mainpost2}>
       
-      <div><Image 
-            src="/../19.jpg"
-            width={900}
-            height={600}
-            alt="Picture of the author"
-      
-      /></div>
+
 
 <div className={styles.title2}>Порядок предоставления ежемесячной денежной выплаты лицам, которым присвоено звание Героя Луганской Народной Республики </div><br/>
       <div className={styles.text2}>Ежемесячная денежная выплата предоставляется:<br/>
