@@ -28,7 +28,7 @@ export default function Page() {
   
       <main className={styles.mainpost}>
       
-    <Post title={"Единовременную компенсацию за вред жизни и здоровью"}  src={"/1.jpg"} l={"/Comp/1"}/> 
+    <Post title={"Единовременная компенсация за вред жизни и здоровью"}  src={"/26.jpg"} l={"/Comp/1"}/> 
 
        
       </main>
