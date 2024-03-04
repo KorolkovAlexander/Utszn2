@@ -29,7 +29,7 @@ export default function Page() {
       <main className={styles.mainpost}>
       
     <Post title={"Единовременная компенсация за вред жизни и здоровью"}  src={"/26.jpg"} l={"/Comp/1"}/> 
-
+    <Post title={"Предоставление меры социальной поддержки для приобретения бытового топлива (угля)"}  src={"/27.jpg"} l={"/Comp/2"}/> 
        
       </main>
       <Footer className={styles.footer} />
