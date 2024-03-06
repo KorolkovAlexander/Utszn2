@@ -41,7 +41,6 @@ export default function Home() {
             alt="Picture of the author"
       
       /></div>
-      <div>Историческая справка</div>
       <div>
       </div>
       </div>

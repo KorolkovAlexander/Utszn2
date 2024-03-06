@@ -30,6 +30,7 @@ export default function Page() {
       
     <Post title={"Единовременная компенсация за вред жизни и здоровью"}  src={"/26.jpg"} l={"/Comp/1"}/> 
     <Post title={"Предоставление меры социальной поддержки для приобретения бытового топлива (угля)"}  src={"/27.jpg"} l={"/Comp/2"}/> 
+    <Post title={"Как получить скидку на оплату жилого помещения и ЖКУ"}  src={"/29.jpg"} l={"/Comp/3"}/> 
        
       </main>
       <Footer className={styles.footer} />
