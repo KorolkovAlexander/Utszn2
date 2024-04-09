@@ -7,8 +7,8 @@ import Header from "../../Components/Header"
 import Postcard from "../../Components/Postcard";
 import Image from 'next/image'
 export const metadata = {
-  title: 'УТСЗН АГР ЛНР',
-  description: 'УТСЗН АГР ЛНР',
+  title: 'Филиал №14 ГКУ ЛНР РЦСЗН в г.Ровеньки',
+  description: 'Филиал №14 ГКУ ЛНР РЦСЗН в г.Ровеньки',
 }
 
 
