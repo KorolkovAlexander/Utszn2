@@ -29,7 +29,7 @@ export default function Page() {
       <main className={styles.mainpost}>
       
     <Post title={"О выездном приеме граждан в пгт. Новодарьевка"}  src={"/32.jpg"} l={"/News/1"}/> 
-
+    <Post title={"Выездной прием граждан в пгт Ясеновский"}  src={"/35.jpg"} l={"/News/2"}/>
       </main>
       <Footer className={styles.footer} />
     </div>
