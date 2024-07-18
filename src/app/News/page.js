@@ -30,6 +30,8 @@ export default function Page() {
       
     <Post title={"О выездном приеме граждан в пгт. Новодарьевка"}  src={"/32.jpg"} l={"/News/1"}/> 
     <Post title={"Выездной прием граждан в пгт Ясеновский"}  src={"/35.jpg"} l={"/News/2"}/>
+    <Post title={"Прием граждан в пгт. Кленовый"}  src={"/36.jpg"} l={"/News/3"}/>
+    <Post title={"Прием граждан в пгт Ясеновский"}  src={"/37.jpg"} l={"/News/4"}/>
       </main>
       <Footer className={styles.footer} />
     </div>
