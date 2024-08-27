@@ -33,16 +33,28 @@ export default function Home() {
     <main className={styles.maini}>
     
   
-      <div className={styles.postWrapper}>
+      <div className={styles.postWrappermain}>
       <div><Image 
-            src="/1.jpg"
-            width={400}
-            height={300}
+            src="/222.jpg"
+            width={650}
+            height={450}
             alt="Picture of the author"
       
       /></div>
-      <div>
-      </div>
+      <div><Image 
+            src="/111.jpg"
+            width={700}
+            height={450}
+            alt="Picture of the author"
+      
+      /></div>
+            <div><Image 
+            src="/333.jpg"
+            width={650}
+            height={450}
+            alt="Picture of the author"
+      
+      /></div>
       </div>
 
     </main>

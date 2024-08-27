@@ -26,6 +26,9 @@ const HeaderNew = () => {
           <Link legacyBehavior href={`/Help`}><a className={styles.link}>
           <li className={styles.li}>Помощь</li>
           </a></Link>
+          <Link legacyBehavior href={`/Soc`}><a className={styles.link}>
+          <li className={styles.li}>Социальный контракт</li>
+          </a></Link>
         </ul>
       </nav>
     </header>
