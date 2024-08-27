@@ -42,7 +42,7 @@ export default function Home() {
       
       /></div>
       <div><Image 
-            src="/111.jpg"
+            src="/1111.jpg"
             width={700}
             height={450}
             alt="Picture of the author"
