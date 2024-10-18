@@ -42,6 +42,7 @@ export default function Page() {
     <Post title={"Встреча с семьями погибших участников СВО"}  src={"/45.jpg"} l={"/News/12"}/>
     <Post title={"Выездной прием специалистов медико-технической бригады ГУП ЛНР  «Протезно-ортопедический завод»"}  src={"/46.jpg"} l={"/News/13"}/>
     <Post title={"Прием граждан в пгт Ясеновский"}  src={"/47.jpg"} l={"/News/14"}/>
+    <Post title={"Встреча с семьями погибших участников СВО"}  src={"/52.jpg"} l={"/News/15"}/>
       </main>
       <Footer className={styles.footer} />
     </div>
