@@ -9,7 +9,7 @@ export default function Footer(){
      <div className={styles.wrapper}>
 
 <div className={styles.about}>
-  <h3>О нас:</h3>
+  <h3>О нас</h3>
   <h4>
   <br/>
   Филиал №14 ГКУ ЛНР РЦСЗН в г.Ровеньки<br/>
