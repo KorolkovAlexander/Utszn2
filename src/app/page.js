@@ -36,14 +36,14 @@ export default function Home() {
       <div className={styles.postWrappermain}>
       <div><Image 
             src="/222.jpg"
-            width={650}
+            width={975}
             height={450}
             alt="Picture of the author"
       
       /></div>
             <div><Image 
             src="/333.jpg"
-            width={650}
+            width={975}
             height={450}
             alt="Picture of the author"
       
