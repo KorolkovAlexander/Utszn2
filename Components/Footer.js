@@ -11,9 +11,9 @@ export default function Footer(){
 <div className={styles.about}>
   <h3>О нас</h3>
   <h4>
-  Управление труда и социальной защиты населения Администрации города Ровеньки<br/>
-94701, г. Ровеньки, ул. Кооперативная, 1<br/>
-Телефон соц. защиты Ровеньки (код 06433): 5-02-93. Факс: 5-02-93<br/>
+  Филиал №14 ГКУ ЛНР РЦСЗН в г.Ровеньки<br/>
+294701, г. Ровеньки, ул. Кооперативная, 1<br/>
+Телефон соц. защиты Ровеньки (код 857 33): 5-02-93. Факс: 5-02-93<br/>
 Электронный адрес УТСЗН Ровеньки: utszn-rovenki@mail.ru
   </h4>
 </div>
@@ -31,8 +31,6 @@ export default function Footer(){
 <img src="icon-lnr.png" className={styles.image}/><a href={`https://mintrudlnr.su/`} className={styles.link}>-Сайт Мин. труда и соц. политики</a></li>
 <li className={styles.li}>
 <img src="icon-lnr.png" className={styles.image}/><a href={`https://nslnr.su/`} className={styles.link}>-Сайт Народного Совета ЛНР</a></li>
-<li className={styles.li}>
-<img src="icon-adm-rovenki.png" className={styles.image}/><a href={`https://rov-adm.su/`} className={styles.link}>-Сайт Администрации города Ровеньки</a></li>
   </ul>
 </div>
 
