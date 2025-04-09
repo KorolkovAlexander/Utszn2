@@ -14,7 +14,7 @@ export default function Footer(){
   Филиал №14 ГКУ ЛНР РЦСЗН в г.Ровеньки<br/>
 294701, г. Ровеньки, ул. Кооперативная, 1<br/>
 Телефон соц. защиты Ровеньки (код 857 33): 5-02-93. Факс: 5-02-93<br/>
-Электронный адрес УТСЗН Ровеньки: utszn-rovenki@mail.ru
+Электронный адрес филиала №14 ГКУ ЛНР РЦСЗН в г.Ровеньки: utszn-rovenki@mail.ru
   </h4>
 </div>
 
@@ -39,7 +39,6 @@ export default function Footer(){
   <div className={styles.soc}> <div><a href={`https://www.ok.ru/profile/564479305591`} className={styles.linksoc}><FaOdnoklassniki /></a></div> <div><a href={`https://vk.com/id306989633`} className={styles.linksoc}><FaVk /></a> </div> </div> 
 </div>
 </div>
-
         </div>
     )
     }
